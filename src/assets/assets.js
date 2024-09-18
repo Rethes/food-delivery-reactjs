@@ -122,7 +122,7 @@ export const food_list = [
         name: "Greek salad",
         image: food_1,
         price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "A traditional Greek salad consists of sliced cucumbers, tomatoes, green bell pepper, red onion, olives, and feta cheese.",
         category: "Salad"
     },
     {
@@ -130,14 +130,14 @@ export const food_list = [
         name: "Veg salad",
         image: food_2,
         price: 18,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "This vegetable salad uses a variety of fresh and colorful vegetables tossed in a pomegranate and herb dressing for a refreshingly tasty side ",
         category: "Salad"
     }, {
         _id: "3",
         name: "Clover Salad",
         image: food_3,
         price: 16,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Clover salad with soy cream dressing for your lunch or dinner. This dish with home grown clover sprouts is a crispy and filling salad.",
         category: "Salad"
     }, {
         _id: "4",
